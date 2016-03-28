@@ -1,0 +1,30 @@
+navbar {
+}
+
+navbar ul {
+  list-hyphen-type: none;
+  margin: 5px 0;
+  padding: 10px;
+  background-color: black;
+}
+navbar ul li {
+  display: inline;
+}
+
+header h1 {
+  font-family: helvetica;
+  color: rgb(156, 27, 27);
+}
+
+.chicken {
+  color: #bf3f3f;
+}
+
+.section-list li {
+  font-family: fantasy;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+}

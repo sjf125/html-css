@@ -1,0 +1,61 @@
+body {
+  font-family: arial;
+  text-align: justify;
+  width: 800px;
+  margin: 0 auto;
+  border: 5px auto;
+}
+
+ul {
+  background-color: lightgray;
+}
+
+h1 {
+  color: #954535;
+  font-family: cursive;
+  font-style: bold;
+}
+
+.butter {
+  color: #F3ef7d;
+}
+
+.brownSugar {
+  color:orange;
+}
+
+.sugar {
+  color:pink;
+}
+
+.pudding {
+  color:purple;
+}
+
+.milk {
+  color:blue;
+}
+
+.vanilla {
+  color:#D4BC9B;
+}
+
+.eggs {
+  color:green;
+}
+
+.flour {
+  color:red;
+}
+
+.bakingSoda {
+  color: aqua;
+}
+
+.salt {
+  color: navy;
+}
+
+.chocolate {
+  color: #3f1f09;
+}
